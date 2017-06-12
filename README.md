@@ -1,2 +1,7 @@
 # profile-code
-profile page
+Code for Profle Website
+
+Contains
+- Education
+- Professional History
+- Skills
